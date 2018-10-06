@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+
+require './lib/teleport_cities'
+TeleportCities::CLI.new.call

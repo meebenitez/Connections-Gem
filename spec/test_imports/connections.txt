@@ -1,0 +1,25 @@
+Hanover - New York City
+New York City - Washington DC
+Washington DC - Orlando
+Lexington - Orlando
+Oakland - Denver
+Denver - Fairbanks
+Fairbanks - Vancouver
+Vancouver - Seattle
+Seattle - Honolulu
+Seattle - Hanover
+Seattle - Burlington
+Burlington - Salem
+Salem - Portland
+Burlington - Portland
+Portland - Boston
+Boston - Atlanta
+Atlanta - Detroit
+Hanover - Santa Fe
+Santa Fe - Oakland
+cities from Seattle in 2 jumps
+cities from Seattle in 4 jumps
+can I teleport from New York City to Atlanta
+can I teleport from Washington DC to Orlando
+loop possible from Oakland
+loop possible from Santa Fe
