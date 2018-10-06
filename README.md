@@ -1,6 +1,6 @@
-# TeleportCities
 
-# TeleportCities
+
+# Connections-Gem
 
 Calculate the following teleportation connection requests:
 
@@ -15,8 +15,6 @@ This gem has an object-oriented design, creating City objects and Request (ex: "
 Calculating a "What can you reach from city X with a maximum of N jumps" request uses a depth-first search algorithm, while the other 2 requests ("Is a loop possible from city X?" and "Can city x travel to city y?") utilize a breadth-first search algorithm.
 
 Rspec tests were created for this app.  Please see the "Development" section of the Readme for instructions on running the tests.
-
-Thank you for the opportunity to work on this test.  It was super fun!
 
 ## Usage
 
